@@ -1,5 +1,5 @@
 # twitter-sentiment
-Sentiment Analysis of Tweets on Twitter using Bag-of-Words and Logistic Regresstion
+Sentiment Analysis of Tweets on Twitter using Bag-of-Words and Logistic Regression
 
 Dataset is available on Kaggle:
 Twitter Sentiment Analysis
